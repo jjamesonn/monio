@@ -1,0 +1,125 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+header {
+	width: 100%;
+	height: 5%;
+	background-color: #6B9484;
+}
+.logo {
+	color: #fffff;
+	font-weight: bold;
+	text-align: undefined;
+	width: 10%;
+	float: left;
+	margin-top: 15px;
+	margin-left: 25px;
+	letter-spacing: 4px;
+}
+body {
+	font-family: source-sans-pro;
+	background-color: #6B9484;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	font-style: normal;
+	font-weight: 200;
+	
+	}
+/* Container */
+.container {
+	width: 90%;
+	margin-left: auto;
+	margin-right: auto;
+	height: 1000px;
+	background-color: #6B9484;}
+
+.bigtext {
+	font-display: "pixelarcade"
+}
+.box_header {
+	color: #FFFFFF;
+	background-color: #6B9484;
+	text-align: left;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	letter-spacing: 4px;
+}
+.box {
+	background-color: #6B9094;
+	padding-top: 24;
+	padding-bottom: 2px;
+}
+.tagline {
+	text-align: left;
+	color: #FFFFFF;
+	margin-top: 4px;
+	margin-left: 24px;
+	margin-right: 24px;
+	font-weight: lighter;
+	letter-spacing: 1px;
+}
+.altbox {
+	background-color: #6f6b94;
+	padding-top: 6px;
+	padding-bottom: 24px;
+	margin-bottom: 4px;
+}
+.strongtext {
+	text-align: center;
+	color: #FFFFFF;
+	margin-top: 12px;
+	margin-bottom: 4px;
+	margin-left: 24px;
+	margin-right: 24px;
+	font-weight: lighter;
+	letter-spacing: 1px;
+}
+.button {
+	width: 200px;
+	margin-top: 40px;
+	margin-right: auto;
+	margin-bottom: auto;
+	margin-left: auto;
+	padding-top: 20px;
+	padding-right: 10px;
+	padding-bottom: 20px;
+	padding-left: 10px;
+	text-align: center;
+	vertical-align: middle;
+	border-radius: 0px;
+	text-transform: uppercase;
+	font-weight: bold;
+	letter-spacing: 2px;
+	border: 3px solid #FFFFFF;
+	color: #FFFFFF;
+	transition: all 0.3s linear;
+	
+	
+}
+.button:hover {
+	background-color: #FEFEFE;
+	color: #ffffff;
+	cursor: pointer;
+}
+.altbox2 {
+	background-color: #90946b;
+}
+.copyright {
+	text-align: center;
+	padding-top: 4px;
+	padding-bottom: 4px;
+	background-color: #946b7b;
+	color: #FFFFFF;
+	text-transform: uppercase;
+	font-weight: lighter;
+	letter-spacing: 2px;
+	border-top-width: 2px;
+	margin-top: 2px;
+	
+
+
